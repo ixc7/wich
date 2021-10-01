@@ -1,9 +1,13 @@
 {
   "name": "wich",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "wich",
   "type": "module",
   "bin": {
     "wich": "./wich.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ixc7/wich.git"
   }
 }
