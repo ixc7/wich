@@ -1,10 +1,18 @@
 {
   "name": "wich",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "wich",
   "type": "module",
   "bin": {
-    "wich": "./wich.js"
+    "wich": "./wich.js",
+    "wch": "./wich.js",
+    "whc": "./wich.js",
+    "whi": "./wich.js",
+    "wic": "./wich.js",
+    "wh": "./wich.js"
+    "wi": "./wich.js",
+    "ch": "./wich.js",
+    "cw": "./wich.js",
   },
   "repository": {
     "type": "git",
